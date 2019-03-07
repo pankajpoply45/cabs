@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.pankaj.cabs">
+
+    <application>
+        <activity android:name="com.pankaj.cabs.NavigationDrawer"
+                  android:label="@string/title_activity_navigation_drawer"
+                  android:theme="@style/AppTheme"
+        >
+        </activity>
+    </application>
+</manifest>

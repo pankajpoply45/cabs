@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "20542074649",
+    "firebase_url": "https://cabs-a958a.firebaseio.com",
+    "project_id": "cabs-a958a",
+    "storage_bucket": "cabs-a958a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20542074649:android:f54d83bd2ca33dba",
+        "android_client_info": {
+          "package_name": "com.pankaj.cabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20542074649-hp4gjr2co091j3n0229hkao16ek06t8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pankaj.cabs",
+            "certificate_hash": "17976f072a13f10b4f07b31c3b3a1ddba8099692"
+          }
+        },
+        {
+          "client_id": "20542074649-6nin1cb96ahv44ut3ueojlcd4j0dci9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPmHRnFWYn-8dkYgD7EDRJD-nrjjX2Xw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20542074649-6nin1cb96ahv44ut3ueojlcd4j0dci9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
